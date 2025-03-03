@@ -1,0 +1,5 @@
+启动串口
+True
+启动摄像头
+arm True body True
+加载模型
